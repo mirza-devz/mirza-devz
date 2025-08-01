@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Residency Project<br>🌱 I’m currently learning Next.js & T3 Stack<br>💬 Ask me about React.js, Next.js, auth, database<br>📫 How to reach me: mirzaziaofficial@gmail.com<br>⚡ Common fact: I love exploring new web technologies and frameworks!
+🔭 I’m currently working on Residency Project<br>🌱 I’m currently learning Next.js & T3 Stack<br>💬 Ask me about React.js, Next.js, auth, database<br>📫 How to reach me: mirza.fiverrdeveloper@gmail.com<br>⚡ Common fact: I love exploring new web technologies and frameworks!
 
 
 ## 🌐 Socials:
